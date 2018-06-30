@@ -40,9 +40,5 @@ filter_default = 0
 #   name = "Other"
 #   tag = ".demo"
 
-[[filter]]
-  name = "Leptospirosis surveillance in Ecuador"
-  tag = ".ID-surveillance"
-
 +++
 
