@@ -10,31 +10,34 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Infectious Disease",
+    "Zoonotic Diseases",
+    "Statistical Modeling",
+    "Mathematic Modeling",
+    "Outbreak Investigation",
+    "Disease Surveillance"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MS Biology"
+  institution = "Northern Arizona University"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "BS Biology"
+  institution = "Northern Arizona University"
+  year = 2014
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA Anthropology"
+  institution = "Northern Arizona University"
+  year = 2014
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kylie Sage is a Biostatistician and R Programmer at Oregon Health and Science University (OHSU). Her research interests include the eco-epidemiology of zoonotic diseases, mathematical and statistical modeling of emerging infectious diseases, and vector-borne disease surveillance. In her current position at OHSU, she utilizes statistical methods related to applied predictive modeling, biomarker analysis using qPCR/mircoarray data, machine learning, and database creation/management. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+When Kylie is not working, she enjoys hiking, cycling, and yoga. She loves adventuring with her pup Lily, and the two of them can often be found outside soaking up the sun (which is a rare commodity in Portland!). 
