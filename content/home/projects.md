@@ -42,3 +42,6 @@ filter_default = 0
 
 +++
 
+[[filter]]
+  name = "Leptospirosis in Ecuador"
+  tag = ".infectious-disease"
