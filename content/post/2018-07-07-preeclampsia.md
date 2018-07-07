@@ -1,7 +1,7 @@
 ---
 title: Preeclampsia: Accurate classification with faulty "gold standard"
 author: K Sage
-date: '2018-07-07'
+date: '07 July 2018'
 slug: preeclampsia
 categories:
   - projects
