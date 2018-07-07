@@ -9,6 +9,7 @@ tags:
   - predictive modeling
   - classification
   - disease
+  - biomarkers
 ---
 
   Preeclampsia (PE) is a serious and potentially fatal disease for pregnant women and their fetus. Currently, diagnosis is based on newly onset hypertension and the presence of protein in the urine. However, these diagnostic criteria are lacking. Diabetomics Inc. (www.diabetomics.com) has produced a rapid point-of-care test (Lumella) for the identification of a novel preeclampsia biomarker (Rasanen et al. 2015, AJOG). 
