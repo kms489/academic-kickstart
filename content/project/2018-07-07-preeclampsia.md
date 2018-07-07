@@ -1,5 +1,5 @@
 ---
-title: Preeclampsia, Accurate classification when gold standard is faulty
+title: 'Preeclampsia: Accurate classification when gold standard is faulty'
 author: K Sage
 date: 'July 07, 2018'
 slug: preeclampsia
