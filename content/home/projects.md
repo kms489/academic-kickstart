@@ -46,6 +46,6 @@ filter_default = 0
 
  [[filter]]
    name = "Zoonotic Disease"
-   tag = ".zoonotic-disease"
+   tag = ".zoonotic disease"
 +++
 
