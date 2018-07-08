@@ -45,7 +45,7 @@ filter_default = 0
    tag = ".ENM"
 
  [[filter]]
-   name = "Zoonotic Diseases"
-   tag = ".zoonotic disease"
+   name = "Zoonotic Disease"
+   tag = ".zoonotic-disease"
 +++
 
