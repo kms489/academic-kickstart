@@ -40,9 +40,12 @@ filter_default = 0
    name = "Biomarkers"
    tag = ".biomarkers"
    
-  [[filter]]
+ [[filter]]
    name = "Ecological Niche Modeling"
    tag = ".ENM"
 
+ [[filter]]
+   name = "Zoonotic Diseases"
+   tag = ".zoonotic disease"
 +++
 
