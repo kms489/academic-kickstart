@@ -8,7 +8,7 @@ categories:
 tags:
   - disease
   - surveillance
-  - zoonotic disease
+  - zoonotic
 ---
 
 ![Presence and density of Leptospirosis cases](/project/2018-07-08-leptospirosis-prevalence-in-ecuador_files/LeptoMap.png)
