@@ -19,7 +19,7 @@ count = 10
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 3
+list_format = 1
 
 # Filter by publication type.
 # -1: Any
@@ -35,5 +35,3 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
-
-Sage KM, Johnson TL, Teglas MB, Nieto NC, Schwan TG (2017) Ecological niche modeling and distribution of Ornithodoros hermsi associated with tick-borne relapsing fever in western North America. PLoS Negl Trop Dis 11(10): e0006047. https://doi.org/10.1371/journal.pntd.0006047
