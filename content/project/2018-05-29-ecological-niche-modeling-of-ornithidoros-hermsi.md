@@ -9,6 +9,7 @@ tags:
   - disease
   - predictive modeling
   - ENM
+  - zoonotic disease
 
 ---
 ![Presence of O. hermsi under current climate conditions](/project/2018-05-29-ecological-niche-modeling-of-ornithidoros-hermsi_files/TBRF_presence.pdf)
