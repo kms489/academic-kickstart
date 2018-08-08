@@ -10,12 +10,12 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+   "R"
     "Infectious Disease",
     "Zoonotic Diseases",
     "Statistical Modeling",
     "Mathematic Modeling",
-    "Outbreak Investigation",
-    "Disease Surveillance"
+    "Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -38,6 +38,6 @@ weight = 5
 
 # Biography
 
-Kylie Sage is a Biostatistician and R Programmer at Oregon Health and Science University (OHSU). Her research interests include the eco-epidemiology of zoonotic diseases, mathematical and statistical modeling of emerging infectious diseases, and vector-borne disease surveillance. In her current position at OHSU, she utilizes statistical methods related to applied predictive modeling, biomarker analysis using qPCR/mircoarray data, machine learning, and database creation/management. 
+I am a Biostatistician and R Programmer at Oregon Health and Science University (OHSU). My research interests include the eco-epidemiology of zoonotic diseases, mathematical and statistical modeling of emerging infectious diseases, and statistical programming in R. In my current position at OHSU, I utilizes statistical methods related to applied predictive modeling, biomarker analysis using qPCR/mircoarray data, machine learning, and database creation/management. 
 
-When Kylie is not working, she enjoys hiking, cycling, and yoga. She loves adventuring with her pup Lily, and the two of them can often be found outside soaking up the sun (which is a rare commodity in Portland!). 
+When I am not working, I enjoys hiking, cycling, swimming, and yoga. I love adventuring with my pup Lily, and the two of us can often be found outside soaking up the sun (which is a rare commodity in Portland!). 
