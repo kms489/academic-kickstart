@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-   "R"
+   "R",
     "Infectious Disease",
     "Zoonotic Diseases",
     "Statistical Modeling",
