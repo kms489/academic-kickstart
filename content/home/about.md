@@ -40,4 +40,4 @@ weight = 5
 
 I am a Biostatistician and R Programmer at Oregon Health and Science University (OHSU). My research interests include the eco-epidemiology of zoonotic diseases, mathematical and statistical modeling of emerging infectious diseases, and statistical programming in R. In my current position at OHSU, I utilize statistical methods related to applied predictive modeling, biomarker analysis using qPCR/mircoarray data, machine learning, and database creation/management. 
 
-When I am not working, I enjoys hiking, cycling, swimming, and yoga. I love adventuring with my pup Lily, and the two of us can often be found outside soaking up the sun (which is a rare commodity in Portland!). 
+When I am not working, I enjoy hiking, cycling, swimming, and yoga. I love adventuring with my pup Lily, and the two of us can often be found outside soaking up the sun (which is a rare commodity in Portland!). 
